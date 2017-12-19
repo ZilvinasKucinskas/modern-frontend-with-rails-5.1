@@ -17,6 +17,7 @@ The idea is to have separate `frontend` folder for front-end developers and to h
 ## Features
 
 * Automatic page update without refresh after modifying frontend code.
+* All staged files will be examined for errors and reformatted automatically with each commit.
 
 ## Code Style
 
