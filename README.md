@@ -2,6 +2,8 @@
 
 Project to experiment. Say no to Turbolinks, no to Sprockets, no to coffeescript.
 
+The idea is to have separate `frontend` folder for front-end developers and to have css, js and erb files together in the same folder.
+
 ## Stack
 
 * Webpack
